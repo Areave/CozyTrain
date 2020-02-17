@@ -1,0 +1,46 @@
+﻿1,1
+Remedy,средство
+Purchaser,потребитель
+Fragile,хрупкий
+Increase,увеличение
+Hostile,враждебный
+Wide,широко
+Illegible,неразборчиво
+Rubust,крепкий
+Approach,подход
+Feature,функция
+Apply,применять
+In_advance,авансом
+Decent,порядочный
+Explicity,очевидно
+Assigments,присвоение
+Compound,составной
+Distinquish,различать
+Storage,место хранения
+Evenrually,в конце концов
+Efficient,эффективный
+Syrvey,опрос
+Intend,намерение
+Peers,сверстники
+Diverse,разнообразный
+Aimed,нацелиться
+Eager,нетерпеливый
+Scope,область действия
+Accomplish,выполнять
+Convienient,удобный
+Underlying,лежащий в основе
+Reliable,надежный
+Establish,устанавливать
+Improve,улучшать
+Rigid,жеское
+Adherence,соблюдение
+Revolve,вращаться
+From_scratch,с нуля
+Soil,пачкать
+Reduse,уменьшать
+Overhead,накладные
+Instance,пример
+Distinctly,заметно
+Derived,полученный
+Restricted,защищенный
+Essentшally,по сути
